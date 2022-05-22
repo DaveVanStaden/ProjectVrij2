@@ -465,7 +465,7 @@ MonoBehaviour:
   controller: {fileID: 371421169}
   speed: 6
   jumpSpeed: 4
-  gravity: -19.62
+  gravity: -39.24
   turnSmoothTime: 0.1
   groundCheck: {fileID: 483851614}
   groundDistance: 0.4
